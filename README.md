@@ -1,5 +1,18 @@
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.7777422"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7777422.svg" alt="DOI"></a>
+   <a href="#"><img src="https://img.shields.io/badge/python-3.8%20|%203.9%20|%203.10%20|%203.11%20-blue?logo=python" alt="Python Versions"></a>
+  <a href="https://opensource.org/licenses/"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT"></a>
+  <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><img src="https://img.shields.io/badge/FOSS-100%25-green.svg?style=flat" alt="FOSS: 100%"></a>
+ <img alt="Flathub Downloads" src="https://img.shields.io/flathub/downloads/io.github.julian_hochhaus.LG4X_V2">
+
+</p>
+
 ## Hint:
 Please use a released version for the productive use of the software (i.e. the latest Release) as they are tested for several different use cases and not the newest Commit, as the different branches are used to work on new and not extensively tested features. The newest commits on the master branch might as well contain bugs as the software is work in progress.
+
+## Announcement:
+
+An advanced version of open-source XPS fitting software is available from [binary](https://sourceforge.net/projects/khervefitting/) and [github](https://github.com/KherveFitting/KherveFitting) developed by Gwilherm Kerherve. The software uses a very similar approach to LG4X/LG4X-V2, combining an even more user-friendly GUI with the models and optimization algorithms implemented in LMFIT/lmfitxps. Please check it out!
 
 
 ## Introduction
@@ -57,8 +70,11 @@ Below is a selection of publications that have made use of LG4X-V2. If you have 
 
 - P. Weinert [Structural, chemical, and magnetic investigation of a graphene/cobalt/platinum multilayer system on silicon carbide : About the formation of magnetic structures in 2D cobalt layers](https://d-nb.info/1328839591) Dissertation (2024).
 
--  J. A. Hochhaus et al. [Structural analysis of Sn on Au(111) at low coverages: Towards the Au2Sn surface alloy with alternating fcc and hcp domains](https://doi.org/10.1038/s41598-025-91733-2) Sci. Rep. **15**, 7953 (2025). 
+- J. A. Hochhaus et al. [Structural analysis of Sn on Au(111) at low coverages: Towards the Au2Sn surface alloy with alternating fcc and hcp domains](https://doi.org/10.1038/s41598-025-91733-2) Sci. Rep. **15**, 7953 (2025). 
 
+- T.R. Acharya et al. [Non-thermal plasma-mediated green synthesis of chitosan-functionalized gold nanoparticles for enhanced cancer immunogenicity](https://doi.org/10.1016/j.jiec.2025.06.029) J. Ind. Eng. Chem. **36** (2025).
+  
+- J. A. Hochhaus et al. [First evidence of a square-like Sn lattice on the Au2Sn surface alloy on Au(111)](https://doi.org/10.1016/j.apsusc.2025.164470) Appl. Surf. Sci., 164470 (2025). 
   
 ### License
 
@@ -323,6 +339,7 @@ You can find the VAMAS format data of various spectra from [Spectroscopy Hub](ht
 - [ ] rewrite the Readme to explain the features introduced in LG4X-V2
 - [ ] Export fit parameters as readable table to be able to use them in e.g. a presentation
 - [ ] Introduce 'Clear all' button for clearing all parameters/limits etc.
+
 
 
 
