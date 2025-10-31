@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+LG4X_V2.egg-info/PKG-INFO
+LG4X_V2.egg-info/SOURCES.txt
+LG4X_V2.egg-info/dependency_links.txt
+LG4X_V2.egg-info/top_level.txt
+Python/__init__.py
+Python/generate_elems_csv.py
+Python/gui_helpers.py
+Python/helpers.py
+Python/main.py
+Python/periodictable.py
+Python/vamas.py
+Python/vamas_export.py
